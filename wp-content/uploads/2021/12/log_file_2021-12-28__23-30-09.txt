@@ -1,0 +1,71 @@
+
+---Downloaded files---
+The import files for: Trendy Shop were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://127.0.0.1/aquamarine
+Data file = C:\xampp\htdocs\AquaMarine/wp-content/themes/argenta/demo/08/content.xml
+Widget file = C:\xampp\htdocs\AquaMarine/wp-content/themes/argenta/demo/08/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog : 
+
+Buscar - No Title - Imported
+Categorías - Categories - Imported
+Argenta: Recent Posts - Recent Posts - Imported
+Meta - Meta - Imported
+Argenta: Socialbar subscribe - Stay in Touch - Imported
+Comentarios recientes - Recent Comments - Imported
+
+Footer column 1 : 
+
+Texto - About Us - Imported
+
+Footer column 2 : 
+
+Categorías de producto - Product Categories - Imported
+
+Footer column 3 : 
+
+Lista de productos - Products - Imported
+
+Footer column 4 : 
+
+Argenta: Subscribe - Subscribe - Imported
+Texto - No Title - Imported
+
+Shop : 
+
+Búsqueda de productos - No Title - Imported
+Filtrar productos por precio - Filter by price - Imported
+Categorías de producto - Product Categories - Imported
+Nube de etiquetas de productos - Product Tags - Imported
+Lista de productos vistos recientemente - Recently Viewed Products - Imported
+
+
+
+---pt-ocdi/after_import---
+

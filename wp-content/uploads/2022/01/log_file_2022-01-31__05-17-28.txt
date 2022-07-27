@@ -1,0 +1,60 @@
+
+---Downloaded files---
+The import files for: Traditional Shop were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://127.0.0.1/innfluenz
+Data file = C:\xampp\htdocs\Innfluenz/wp-content/themes/argenta/demo/02/content.xml
+Widget file = C:\xampp\htdocs\Innfluenz/wp-content/themes/argenta/demo/02/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Footer column 1 : 
+
+Texto - About Us - Imported
+
+Footer column 2 : 
+
+Texto - Help - Imported
+
+Footer column 3 : 
+
+Texto - Privacy &amp; Terms - Imported
+
+Footer column 4 : 
+
+Argenta: Subscribe - Subscribe - Imported
+Texto - No Title - Imported
+
+Blog : 
+
+Buscar - No Title - Imported
+Categorías - No Title - Imported
+Meta - No Title - Imported
+Comentarios recientes - No Title - Imported
+
+Pages : 
+
+Buscar - No Title - Imported
+Categorías - No Title - Imported
+Meta - No Title - Imported
+Comentarios recientes - No Title - Imported
+
+Shop : 
+
+Búsqueda de productos - No Title - Widget already exists
+Filtrar productos por precio - Filter by price - Widget already exists
+Categorías de producto - Product Categories - Widget already exists
+Nube de etiquetas de productos - Product Tags - Widget already exists
+Lista de productos vistos recientemente - Recently Viewed Products - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+
